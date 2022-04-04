@@ -1,5 +1,5 @@
-# bulletin
-To replace "contract" to "bulletin" for the kinds of general application.
+# "bulletin"
+To replace "contract" with "bulletin" for the kinds of general application.
 “contract” is limited to transfer value app only. Tish effort is to replace the word “contract” from Ethereum community usage， to build a branch of a brand new small scale block-chain community， “bulletin” community，to meet the “verified records" requirements, for stable, dynamic community application tool sets 
 Under the smart "bulletin", the function or methods should be executed to verify： 1, if it is valid； 2, whether it is conflicts with an occupied "seat” or rule sets；3，if the seat requested is available，publish in the “bulletin” for legal reservation.
 The “seats” can be a three D space or moving space.
